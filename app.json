@@ -11,9 +11,6 @@
     "android": {
       "package": "com.moneygram.app",
       "permissions": []
-    },
-    "plugins": [
-      "expo-status-bar"
-    ]
+    }
   }
 }
